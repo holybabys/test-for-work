@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Root";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/UI_Regular.otf') format("truetype");
+}
+
+@font-face {
+  font-family: "Root";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('~assets/fonts/UI_Medium.otf') format("truetype");
+}
+body {
+  font-family: Root;
+}
